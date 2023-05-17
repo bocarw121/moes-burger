@@ -1,3 +1,5 @@
+[![Cypress Tests](https://github.com/bocarw121/moes-burger/actions/workflows/test.yml/badge.svg)](https://github.com/bocarw121/moes-burger/actions/workflows/test.yml)
+
 # Moe's Burger
 
 ## Description
