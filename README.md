@@ -29,4 +29,4 @@ Highlighting Moe's Michelin Star Burger.
 
 ## Live Demo
 
-[Live Demo](https://burger-talk.vercel.app/)
+[Live Demo](https://moes-burger.vercel.app/)
